@@ -87,7 +87,7 @@ The original design files are in the [INVENTOR](./INVENTOR) folder.
 ***Fig 1.*** *The xyz stage inside a light-sheet microscope*
 
 <p align="center">
-<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="500"></a>
+<a> <img src="./IMAGES/IMG_20221220_171253.jpg" width="500"></a>
 </p>
 
 
