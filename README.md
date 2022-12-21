@@ -37,7 +37,7 @@ Curious to see what this looks like? Keep scrolling!
 We use our UC2-ESP firmware to control the steppers using the UC2 board. Software available here https://github.com/youseetoo/uc2-esp32/ or via the web flashing tool here: https://youseetoo.github.io/
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/VID_20221220_080646.gif" width="600"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/VID_20221220_080646.gif" width="500"></a>
 </p>
 
 # Software
@@ -79,16 +79,15 @@ The original design files are in the [INVENTOR](./INVENTOR) folder.
 
 
 ## Showcase
-*AWESOME RESULTS!*
 
 <p align="center">
-<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
+<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="500"></a>
 </p>
 
 ***Fig 1.*** *The xyz stage inside a light-sheet microscope*
 
 <p align="center">
-<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
+<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="500"></a>
 </p>
 
 
