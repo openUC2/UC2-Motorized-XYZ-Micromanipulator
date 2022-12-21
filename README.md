@@ -56,13 +56,8 @@ Below you will find all components necessary to build this device
 
 ### 3D printing files
 
-All these files need to be printed. We used a Prusa i3 MK3 using PLA Prusament (Galaxy Black) at layer height x.x mm and infill xx%.
-
-
-|  Type | Details  |  Price | Link  |
-|---|---|---|---|
-| *FANCY* Holder |  *IT HOLD OTHER FANCY PARTS* |  x,xx € | [Part.stl](./STL/)  |
-
+All these files need to be printed. We used a Prusa i3 MK3 using PLA Prusament (Galaxy Black) at layer height  0.3 mm and infill 100%.
+All printing files can be found in the Folder [./STL](./STL)
 
 ### Additional parts
 This is used in the current version of the setup
@@ -90,12 +85,14 @@ The original design files are in the [INVENTOR](./INVENTOR) folder.
 <a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
 </p>
 
+***Fig 1.*** *The xyz stage inside a light-sheet microscope*
+
 <p align="center">
 <a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
 </p>
 
-***Fig 1.*** *MY MOST AWSOME IMAGE*
 
+***Fig 2.*** *The assembled xyz stage*
 
 ## Get Involved
 
