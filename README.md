@@ -8,8 +8,6 @@
 
 
 
-IMG_20221219_204302.jpg
-IMG_20221220_171253.jpg
 
 
 This repository will help you to build and setup a compact motorized XYZ manipulator.
@@ -68,6 +66,8 @@ All these files need to be printed. We used a Prusa i3 MK3 using PLA Prusament (
 
 ### Additional parts
 This is used in the current version of the setup
+
+**Attention** The overall part becomes a bit wobelly if printed with PLA -> choose 100% infill. Additionally, you can add 3 standard glassslides (1.5mm thickness) as an additional linear bearing that supports the linear motion of the first stepper motor. We will give an updated image soon. 
 
 | #        | Name                                   | URL                                                                                                                                                                                                                                                       | Price | Quantity |
 | -------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------- |
