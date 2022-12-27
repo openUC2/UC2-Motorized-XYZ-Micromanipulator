@@ -8,8 +8,6 @@
 
 
 
-IMG_20221219_204302.jpg
-IMG_20221220_171253.jpg
 
 
 This repository will help you to build and setup a compact motorized XYZ manipulator.
@@ -39,7 +37,7 @@ Curious to see what this looks like? Keep scrolling!
 We use our UC2-ESP firmware to control the steppers using the UC2 board. Software available here https://github.com/youseetoo/uc2-esp32/ or via the web flashing tool here: https://youseetoo.github.io/
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/VID_20221220_080646.gif" width="600"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/VID_20221220_080646.gif" width="500"></a>
 </p>
 
 # Software
@@ -58,16 +56,13 @@ Below you will find all components necessary to build this device
 
 ### 3D printing files
 
-All these files need to be printed. We used a Prusa i3 MK3 using PLA Prusament (Galaxy Black) at layer height x.x mm and infill xx%.
-
-
-|  Type | Details  |  Price | Link  |
-|---|---|---|---|
-| *FANCY* Holder |  *IT HOLD OTHER FANCY PARTS* |  x,xx € | [Part.stl](./STL/)  |
-
+All these files need to be printed. We used a Prusa i3 MK3 using PLA Prusament (Galaxy Black) at layer height  0.3 mm and infill 100%.
+All printing files can be found in the Folder [./STL](./STL)
 
 ### Additional parts
 This is used in the current version of the setup
+
+**Attention** The overall part becomes a bit wobelly if printed with PLA -> choose 100% infill. Additionally, you can add 3 standard glassslides (1.5mm thickness) as an additional linear bearing that supports the linear motion of the first stepper motor. We will give an updated image soon. 
 
 | #        | Name                                   | URL                                                                                                                                                                                                                                                       | Price | Quantity |
 | -------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------- |
@@ -84,18 +79,19 @@ The original design files are in the [INVENTOR](./INVENTOR) folder.
 
 
 ## Showcase
-*AWESOME RESULTS!*
 
 <p align="center">
-<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
+<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="500"></a>
 </p>
+
+***Fig 1.*** *The xyz stage inside a light-sheet microscope*
 
 <p align="center">
-<a> <img src="./IMAGES/IMG_20221219_204302.jpg" width="300"></a>
+<a> <img src="./IMAGES/IMG_20221220_171253.jpg" width="500"></a>
 </p>
 
-***Fig 1.*** *MY MOST AWSOME IMAGE*
 
+***Fig 2.*** *The assembled xyz stage*
 
 ## Get Involved
 
